@@ -44,7 +44,7 @@ namespace Polybrush
 			}
 
 			//Debug.LogError(string.Format("Could not locate \"{0}\" folder.  The Polybrush folder can be moved, but the contents of this folder must remain unmodified.", folder));
-
+			
 			return null;
 		}
 
